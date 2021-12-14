@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Read all of this JL-JT </title>
+</head>
+<body>
+<h1> To see if you understand, follow instructions </h1>
+<p> Tell me how you went with the thing we talked about</p>
+<p> "Don't read this bit" </p>
+<p> Jesse of the tan's! text me when you read this </p>
+<p> Maybes send me a pic of this </p>
+<a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/DontTryThisAtHome">  link </a>
+</body>
+</html>
